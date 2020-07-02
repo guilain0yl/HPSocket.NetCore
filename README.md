@@ -1,0 +1,1 @@
+# HPSocket.NetCore
